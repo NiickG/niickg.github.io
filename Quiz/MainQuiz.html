@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="MainQuiz.css">
+    <link rel="stylesheet" href="../MainStyle.css">
+    <script type="text/javascript" src="MainQuiz.js"></script>
+    <script type="text/javascript" src="../countryData_2020.js"></script>
+    <script type="text/javascript" src="../data_2020.js"></script>
+    <title>Quiz</title>
+</head>
+<body onload="onLoad()">
+    <a href="SelectQuiz.html" class="backButton">⇐</a>
+    <label onclick="" id="rightAnswer"></label>
+    <ul>
+        <li>
+            <label id="timer">00:00:00</label>
+            <label id="counter">00:00:00</label>
+        </li>
+        <div id="progress-container">
+            <div id="progress-bar">
+                <div id="bar"></div>
+            </div>
+            <div id="countdown"></div>
+        </div>
+        <div id="MainOptions">
+            <img id="QuestionImage" src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/de.svg"/>
+            <div id="OptionType1" class="OptionType">
+                <button onclick="SetOption(0)" id="0" class="OptionButton"></button>
+                <button onclick="SetOption(1)" id="1" class="OptionButton"></button>
+                <br/>
+                <button onclick="SetOption(2)" id="2" class="OptionButton"></button>
+                <button onclick="SetOption(3)" id="3" class="OptionButton"></button>
+                <br/>
+                <button onclick="SetOption(4)" id="4" class="OptionButton"></button>
+                <button onclick="SetOption(5)" id="5" class="OptionButton"></button>
+            </div>
+            <div id="OptionType2" class="OptionType">
+                <input type="text" id="InputField" onkeydown="NewCountryInput(this)"/>
+                <button id="SkipButton">Skip</button>
+            </div>
+        </div>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="SelectQuiz.css">
+    <link rel="stylesheet" href="../MainStyle.css">
+    <script type="text/javascript" src="SelectQuiz.js"></script>
+    <title>MainQuiz</title>
+</head>
+<body>
+    <a href="../index.html" class="backButton">⇐</a>
+    <ul class="list">
+        <li>
+            <img class="QuizImage" height="200" width="200" src="../Images/FlagToName.svg"/>
+            <div class="SettingsPanel">
+                <select id="difficultyOptions">
+                    <option>Medium</option>
+                    <option>Easy</option>
+                    <option>Hard</option>
+                </select>    
+                <div>
+                    <input id="SmarterOptions" type="checkbox"/>
+                    <label for="SmarterOptions">Smarter Options</label>
+                </div>
+                <div>
+                    <input id="NoTimeLimit" type="checkbox"/>
+                    <label for="NoTimeLimit">No time limit</label>
+                </div>
+            </div>
+            <button onclick="openFlagToQuizPage('FlagToName')" class="button">Flag => Name</button>
+        </li>
+        <li>
+            <img class="QuizImage" height="200" width="200" src="../Images/FlagToNameInput.svg"/>
+            <div class="SettingsPanel">
+                
+            </div>
+            <a>
+                <button onclick="openFlagToQuizPage('FlagToType')" class="button">Flag => Type</button>
+            </a>
+        </li>
+        <li>
+            <img class="QuizImage" height="200" width="200" src="../Images/NameToFlag.svg"/>
+            <div class="SettingsPanel">
+                
+            </div>
+            <a>
+                <button class="button">Name => Flag</button>
+            </a>
+        </li>
+        <li>
+            <img class="QuizImage" height="200" width="200" src="../Images/NameToCapital.svg"/>
+            <div class="SettingsPanel">
+                
+            </div>
+            <a>
+                <button class="button">Name => Capital</button>
+            </a>
+        </li>   
+    </ul>
+</body>
+</html>

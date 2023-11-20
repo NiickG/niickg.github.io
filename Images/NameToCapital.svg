@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="202.64583mm"
+   height="202.64583mm"
+   viewBox="0 0 202.64583 202.64583"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Zeichnung.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="433.5"
+     inkscape:cy="359"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g7603" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2.4922191,0.15361086)">
+    <path
+       id="rect158"
+       style="opacity:1;fill:#121212;stroke:#ffffff;stroke-width:2.64583;paint-order:markers fill stroke"
+       d="M -1.1693041,1.1693041 H 198.8307 V 201.1693 H -1.1693041 Z" />
+    <g
+       id="g7603"
+       transform="matrix(0.89786542,0,0,0.89786542,17.143588,-4.9219544)">
+      <g
+         id="g7603-7"
+         transform="translate(7.2970444,-2.7441015)">
+        <g
+           id="g6651"
+           transform="translate(-63.959481,41.449159)"
+           style="fill:#000000;fill-opacity:1;stroke-width:1.2;stroke-dasharray:none">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.2907px;font-family:'Eurostile LT Std';-inkscape-font-specification:'Eurostile LT Std';opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.3365;stroke-dasharray:none;paint-order:markers fill stroke"
+             x="68.992271"
+             y="54.394894"
+             id="text15908"><tspan
+               sodipodi:role="line"
+               id="tspan15906"
+               style="font-size:39.2907px;stroke-width:1.3365"
+               x="68.992271"
+               y="54.394894">Germany</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g7782"
+       transform="translate(-6.7351921,-7.8577241)">
+      <path
+         id="rect7657"
+         style="opacity:1;fill:#ffffff;stroke-width:1.40817;paint-order:markers fill stroke"
+         d="M 24.441526,147.22549 H 105.3365 v 16.4638 H 24.441526 Z" />
+      <path
+         id="rect7727"
+         style="opacity:1;fill:#ffffff;stroke-width:1.40817;paint-order:markers fill stroke"
+         d="m 109.28626,147.22549 h 80.89498 v 16.4638 h -80.89498 z" />
+      <path
+         id="rect7761"
+         style="opacity:1;fill:#ffffff;stroke-width:1.40817;paint-order:markers fill stroke"
+         d="M 24.441526,166.68269 H 105.3365 v 16.4638 H 24.441526 Z" />
+      <path
+         id="rect7765"
+         style="opacity:1;fill:#ffffff;stroke-width:1.40817;paint-order:markers fill stroke"
+         d="m 109.28626,166.68269 h 80.89498 v 16.4638 h -80.89498 z" />
+    </g>
+  </g>
+</svg>
